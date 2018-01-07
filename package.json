@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/back2basic/MyCrypto/issues"
   },
-  "homepage": "https://github.com/back2basic/MyCrypto#readme"
+  "homepage": "https://github.com/back2basic/MyCrypto#readme",
+  "dependencies": {
+    "mongodb": "^3.0.1",
+    "socketio": "^1.0.0"
+  }
 }
