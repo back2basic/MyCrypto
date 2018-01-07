@@ -1,0 +1,22 @@
+{
+  "name": "mycrypto",
+  "version": "1.0.0",
+  "description": "My Crypto Overview",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/back2basic/MyCrypto.git"
+  },
+  "keywords": [
+    "Crypto"
+  ],
+  "author": "Ron van Hezik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/back2basic/MyCrypto/issues"
+  },
+  "homepage": "https://github.com/back2basic/MyCrypto#readme"
+}
